@@ -13,3 +13,8 @@ Puedes instalar todas las dependencias necesarias ejecutando el siguiente comand
 
 ```bash
 pip install -r requirements.txt
+```
+Si este proyecto te fue útil o simplemente deseas agradecer, puedes hacer una donación a través de mi PayPal. 😊  
+
+🔗 **[Haz clic aquí para donar](https://paypal.me/DiegoHernanFazio)**  
+
