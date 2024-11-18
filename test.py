@@ -95,7 +95,6 @@ def main():
       print("Error: Ticket de acceso vacio")
       sys.exit()
 
-   print(cService)
    print(cSt)
 
    cPost = f"userComponent=op_Cuit&service={cService}&ticket={cSt}&tipoOjeto="
