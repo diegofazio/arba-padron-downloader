@@ -1,4 +1,4 @@
-# ARBA Padron Downloader
+# ARBA Padron Downloader - Descarga automatica del padron de Arba
 
 Este proyecto permite descargar el padrón de la Agencia de Recaudación de la Provincia de Buenos Aires (ARBA) de manera automática. Utiliza un script en Python que interactúa con el sistema de autenticación de ARBA, extrae los datos necesarios y descarga el archivo del padrón correspondiente.
 
